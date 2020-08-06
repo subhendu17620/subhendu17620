@@ -5,7 +5,7 @@
 
 <h4 align='center'>🌱 I’m currently learning Flutter.</h4>
 <h4 align='center'>⚡ Fun fact: I prefer tabs over spaces.</h4>
-<h4 align='center'>💬I am just one ping away.</h4>
+<h4 align='center'>💬 I am just one ping away. [![Gmail Badge](https://img.shields.io/badge/-subhendu17620@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:subhendu17620@gmail.com)</h4>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 <!--
