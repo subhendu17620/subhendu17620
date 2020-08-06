@@ -1,5 +1,5 @@
 
-[![social banner for subhendu](https://raw.githubusercontent.com/subhendu17620/subhendu17620/master/assets/banner.png)](https://github.com/subhendu17620)
+[![social banner for subhendu](https://raw.githubusercontent.com/subhendu17620/subhendu17620/master/assets/new%20banner.png)](https://github.com/subhendu17620)
 
 
 
