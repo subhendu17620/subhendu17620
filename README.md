@@ -1,11 +1,10 @@
-<img src="https://raw.githubusercontent.com/subhendu17620/subhendu17620/master/assets/banner.png" />
 
+[![social banner for subhendu](https://raw.githubusercontent.com/subhendu17620/subhendu17620/master/assets/banner.png)](https://github.com/subhendu17620)
+<h2 align='center'>a Web-app developer and ML enthusiast.</h2>
 
-<h2 align='center' >a Web-app developer and ML enthusiast.</h2>
-
-🌱 I’m currently learning Flutter.
-⚡ Fun fact: I prefer tabs over spaces.
-💬I am just one ping away.
+<h4 align='center'>🌱 I’m currently learning Flutter.</h4>
+<h4 align='center'>⚡ Fun fact: I prefer tabs over spaces.</h4>
+<h4 align='center'>💬I am just one ping away.</h4>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 <!--
