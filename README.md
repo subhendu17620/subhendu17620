@@ -1,10 +1,13 @@
-<img src="assets/banner.png" />
+<img src="https://raw.githubusercontent.com/subhendu17620/subhendu17620/master/assets/banner.png" />
 
 
-### a Web-app developer and ML enthusiast.
+<h2 align='center' >a Web-app developer and ML enthusiast.</h2>
+
 🌱 I’m currently learning Flutter.
 ⚡ Fun fact: I prefer tabs over spaces.
 💬I am just one ping away.
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 <!--
 **subhendu17620/subhendu17620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there 👋,
