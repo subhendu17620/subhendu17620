@@ -6,7 +6,7 @@
 
 <p> Here are some things I can help you with. </p>
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
     <img src="https://img.icons8.com/color/48/000000/python.png"/> 
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
@@ -20,14 +20,20 @@
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </p>
 
+---
+
+<p align="center">
+
+<img src="https://github.com/subhendu17620/subhendu17620/blob/output/github-contribution-grid-snake.svg?raw=true">
+
+</p>
 
 ---
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhendu17620&theme=nord">
-<img alt="subhendu17620's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhendu17620&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=subhendu17620&theme=monokai-metallian&hide_border=true">
 
 
 ---
