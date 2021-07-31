@@ -6,7 +6,8 @@ name: Generate Snake
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
-  branches: [ master ]
+  push:
+    branches: [ master ]
   # schedule:
   #     # every 6 hours
   #   - cron: "0 */6 * * *"
