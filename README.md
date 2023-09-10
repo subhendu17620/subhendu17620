@@ -19,6 +19,7 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
     <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>
     <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
     <img src="https://img.icons8.com/color/48/000000/grafana.png"/>
