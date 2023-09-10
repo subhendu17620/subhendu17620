@@ -16,13 +16,13 @@
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/>
-    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
     <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/>
-    <img src="https://img.icons8.com/color/48/000000/grafana.png"/>
+    <img src="https://img.icons8.com/color/48/000000/redis.png"/>
 
 </p>
 
