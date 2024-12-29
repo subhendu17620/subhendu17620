@@ -1,6 +1,4 @@
-
 [![social banner for subhendu](https://raw.githubusercontent.com/subhendu17620/subhendu17620/master/assets/banner-compressed.png)](https://www.linkedin.com/in/subhendu17620/)
-
 
 ---
 
@@ -30,24 +28,21 @@
 
 <p align="center">
 
-<img src="https://github.com/subhendu17620/subhendu17620/blob/output/github-contribution-grid-snake.svg?raw=true">
+<img src="https://github.com/subhendu17620/subhendu17620/blob/output/dist/github-snake.svg">
 
 </p>
 
 ---
-
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=subhendu17620&theme=monokai-metallian&hide_border=true">
 
-
 ---
-<img alt="subhendu17620's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subhendu17620&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
+<img alt="subhendu17620's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=subhendu17620&theme=github-compact />
 
 </p>
-
 
 ---
 
