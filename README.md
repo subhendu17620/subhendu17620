@@ -40,7 +40,7 @@
 
 ---
 
-<img alt="subhendu17620's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=subhendu17620&theme=github-compact />
+<img alt="subhendu17620's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=subhendu17620&theme=github-compact" />
 
 </p>
 
